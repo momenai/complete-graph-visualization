@@ -6,4 +6,7 @@ Just animated visualization of a growing complete graph in python.
 
 ![Start Graph animation soon](star_graph.gif)
 
+![Start Graph animation soon](circular_ring_graph.gif)
+
+
 
