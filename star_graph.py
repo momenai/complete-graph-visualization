@@ -26,4 +26,4 @@ star_graph_instance = StarGraphVisualization(49)
 # Visualize the graph
 star_graph_instance.visualize_graph()
 # Save the graph image
-star_graph_instance.save_graph_image('star_graph.png')
+star_graph_instance.save_graph_image('star_graph.gif')
